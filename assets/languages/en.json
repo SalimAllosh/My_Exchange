@@ -1,0 +1,22 @@
+{
+    "CURRENCIES":"Currencies", 
+    "CONVERTER":"Converter",
+    "GOLD":"Gold",
+    "SETTINGS":"Settings",
+    "SEARCH":"search",
+    "DARK_MODE":"Dark Mode",
+    "LANGUAGES":"Languages",
+    "ABOUT_US":"About US",
+    "LAST_UPDATE_DATE":"Last Update ",
+    "CURRENCY":"Currency",
+    "BUY":"Buy", 
+    "SELL":"Sell",
+    "CLEAR":"clear",
+    "EXPLAIN_TEXT_P1":"Current foregin exchange rate to",
+    "EXPLAIN_TEXT_P2":"Sweden Krona ",
+    "EXPLAIN_TEXT_P3":"including currency converter",
+    "SERVER_FAILUER_MESSAGE":"Sorry Can't Reach The Server Now , Please Try Again Later ...",
+    "NO_CACHED_DATA_MESSAGE":"There Are No Saved Data .. Please Connect To Enternet ",
+    "NO_INTERNET_CONNCTION_MESSAGE":"Please Check Your Internet Connection "
+
+}

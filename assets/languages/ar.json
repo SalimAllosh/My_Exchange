@@ -1,0 +1,21 @@
+{
+    "CURRENCIES":"العملات", 
+    "CONVERTER":"التحويل",
+    "GOLD":"الذهب",
+    "SETTINGS":"الاعدادات",
+    "SEARCH":"بحث",
+    "DARK_MODE":"الوضع المظلم",
+    "LANGUAGES":"اللغات",
+    "ABOUT_US":"من نحن",
+    "LAST_UPDATE_DATE":"اخر تحديث ",
+    "CURRENCY":"العملة",
+    "BUY":"شراء", 
+    "SELL":"مبيع",
+    "CLEAR":"مسح",
+    "EXPLAIN_TEXT_P1":"سعر الصرف الحالي للعملات الأجنبية بالنسبة ل ",
+    "EXPLAIN_TEXT_P2":"الكرونا السويدية ",
+    "EXPLAIN_TEXT_P3":"بما في ذلك محول العملات",
+    "SERVER_FAILUER_MESSAGE":"عذرا لا يمكننا الوصول الى السيرفر في الوقت الحالي , الرجاء المحاولة لاحقا",
+    "NO_CACHED_DATA_MESSAGE":"لا يوجد معلومات محفوظة مسبقا , يرجى الاتصال بالانترنت",
+    "NO_INTERNET_CONNCTION_MESSAGE":"الرجاء التحقق من الاتصال بالانترنت"
+}

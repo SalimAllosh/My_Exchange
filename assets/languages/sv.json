@@ -1,0 +1,21 @@
+{
+    "CURRENCIES": "Valutor",
+    "CONVERTER": "Omvandlare",
+    "GOLD": "Guld",
+    "SETTINGS": "Inställningar",
+    "SEARCH":"search",
+    "DARK_MODE": "Mörkt läge",
+    "LANGUAGES": "Språk",
+    "ABOUT_US": "Om oss",
+    "LAST_UPDATE_DATE": "Senast uppdaterad ",
+    "CURRENCY": "Valuta",
+    "BUY": "Köp",
+    "SELL": "Sälj",
+    "CLEAR": "Rensa",
+    "EXPLAIN_TEXT_P1": "Aktuell valutakurs för",
+    "EXPLAIN_TEXT_P2": "Svenska kronan ",
+    "EXPLAIN_TEXT_P3": "inklusive valutaomvandlare",
+    "SERVER_FAILUER_MESSAGE": "Tyvärr kan vi inte nå servern just nu. Försök igen senare...",
+    "NO_CACHED_DATA_MESSAGE": "Det finns ingen sparad data. Anslut till internet.",
+    "NO_INTERNET_CONNCTION_MESSAGE": "Kontrollera din internetanslutning."
+  }
